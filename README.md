@@ -8,7 +8,7 @@
  I'm a Data Analyst with a bachelors degree in Applied Statistics. I am passionate about all the different things data can tell us. Each project and dataset is a puzzle waiting to be solved, insights left to be discovered. With each graph, each model, each number, the puzzle becomes clearer. Data is not just numbers, it is a trail of clues. As a data analyst, I am the detective, piecing together all the fragemented information that tells a story that drives action and strategy!
  
  Check out my portfoilo :yum:
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://evancabrera713.github.io/EvanCabrera.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://evancabrera713.github.io/EvanCabrera.github.io/){:target="_blank"}
 
 # 💻 Languages and Tools
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
